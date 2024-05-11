@@ -1,1 +1,1 @@
-web: node server.js --timeout 300
+web: node server.js --timeout 120
